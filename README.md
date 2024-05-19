@@ -17,5 +17,6 @@ These projects serve as exercises to practice Python programming concepts togeth
 2. **[Amazon Price Tracker](https://github.com/alphaKilowhisKEY/web_projects/tree/main/amazon_price_tracker)**: tracks the price of an item on Amazon and notifies via email if the price drops below a specified threshold.
 3. **[Web Scraping Movie Titles](https://github.com/alphaKilowhisKEY/web_projects/tree/main/movies_must_watch)**: scrapes movie titles and saves them to a text file.
 4. **[Auto Tinder](https://github.com/alphaKilowhisKEY/web_projects/tree/main/auto_tinder)**: uses Selenium to automate the Tinder web app by logging in with Google credentials and performing "like" actions on profiles. 
-4. **[Selenium Scraping](https://github.com/alphaKilowhisKEY/web_projects/tree/main/selenium_scraping)**: different small scripts use Selenium to interact with websites. 
-4. **[Internet Speed Tweet](https://github.com/alphaKilowhisKEY/web_projects/tree/main/tweet_internet_speed)**: if the download speed is lower than the promised, it posts a tweet to complain about the slow speed.
+5. **[Selenium Scraping](https://github.com/alphaKilowhisKEY/web_projects/tree/main/selenium_scraping)**: different small scripts use Selenium to interact with websites. 
+6. **[Internet Speed Tweet](https://github.com/alphaKilowhisKEY/web_projects/tree/main/tweet_internet_speed)**: if the download speed is lower than the promised, it posts a tweet to complain about the slow speed.
+7. **[Insta Followers]()**: to follow insta users by using Selenium
