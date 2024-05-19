@@ -11,7 +11,7 @@ Prerequisites:
 Usage:
 1. Modify the URL variable in the script to specify the URL of the webpage containing the movie titles.
 2. Run the script:
-> python3 main.py
+$ python3 main.py
 3. The script will create a file named movie_list.txt containing the scraped movie titles.
 
 '''

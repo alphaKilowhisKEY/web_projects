@@ -13,6 +13,9 @@ These projects serve as exercises to practice Python programming concepts togeth
 
 ## Project List
 
-1. **[Billboard Hot 100 Playlist Creator]()**: to create a Spotify playlist based on Billboard Hot 100 songs for a specific date.
-2. **[Amazon Price Tracker]()**: tracks the price of an item on Amazon and notifies via email if the price drops below a specified threshold.
-3. **[Web Scraping Movie Titles]()**: scrapes movie titles and saves them to a text file.
+1. **[Billboard Hot 100 Playlist Creator](https://github.com/alphaKilowhisKEY/web_projects/tree/main/100_songs_of_date)**: to create a Spotify playlist based on Billboard Hot 100 songs for a specific date.
+2. **[Amazon Price Tracker](https://github.com/alphaKilowhisKEY/web_projects/tree/main/amazon_price_tracker)**: tracks the price of an item on Amazon and notifies via email if the price drops below a specified threshold.
+3. **[Web Scraping Movie Titles](https://github.com/alphaKilowhisKEY/web_projects/tree/main/movies_must_watch)**: scrapes movie titles and saves them to a text file.
+4. **[Auto Tinder]()**: uses Selenium to automate the Tinder web app by logging in with Google credentials and performing "like" actions on profiles. 
+4. **[Selenium Scraping]()**: different small scripts use Selenium to interact with websites. 
+4. **[Internet Speed Tweet]()**:

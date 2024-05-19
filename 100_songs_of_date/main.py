@@ -14,7 +14,7 @@ Note:
 + Replace `SPOTIFY_CLIENT_ID` and `SPOTIFY_CLIENT_SECRET` variables in the script with your obtained credentials.
 
 Usage:
-1. > python3 main.py
+1. $ python3 main.py
 2. Enter a date in the format `YYYY-MM-DD` when prompted.
 3. The script will scrape Billboard Hot 100 songs for the entered date, search for them on Spotify, and create a private playlist with the found songs.
 

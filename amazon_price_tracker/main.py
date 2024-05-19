@@ -14,7 +14,7 @@ Usage:
 2. Set the `PRICE_NEEDED` variable to the price threshold below which you want to be notified.
 3. Set the SENDER_EMAIL, SENDER_PASSWORD and HEADERS.
 4. Run the script using Python:
-> python3 main.py
+$ python3 main.py
   
 5. If the current price of the item is lower than the specified threshold, you will receive an email notification.
 
